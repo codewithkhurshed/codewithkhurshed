@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khorshed Alam</h1>
 <h2 align="center">Research Assistant, Independent University Bangladesh.</h2>
-<h2 align="center">Peer Reviewer, IEEE Access Journal (Q1, Computer Science).</h2>
-<h2 align="center">Former Android Developer, Authentic Four Technology.</h2>
+<h3 align="center">Peer Reviewer, IEEE Access Journal (Q1, Computer Science).</h2>
+<h3 align="center">Former Android Developer, Authentic Four Technology.</h2>
 <h3 align="center">A passionate Computer Science Researcher and Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkhurshed&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkhurshed" /> </p>
