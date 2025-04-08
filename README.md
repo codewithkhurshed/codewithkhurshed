@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **AI, Machine Learning, Reservoir Computing, Deep Reinforcement Learning, Time series analysis, Network optimization, App development and Human Computer Interaction.**
 
-- 📫 How to reach me **khorshed.official@gmail.com**
+- 📫 How to reach me **khorshed.official@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
