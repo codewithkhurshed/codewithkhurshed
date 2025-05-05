@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkhurshed&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkhurshed" /> </p>
 
-- 🔭 I’m currently working on **Reservoir Computing, Deep Reinforcement Learning, Time series analysis, Network optimization and Human Computer Interaction.**
+- 🔭 I’m currently working on **Reservoir Computing, Deep Reinforcement Learning, Time series analysis, Network optimization and Human Computer Interaction. **
 
 - 👨‍💻 All of my research papers are available at [https://scholar.google.com/citations?hl=en&user=vfoKg4wAAAAJ](https://scholar.google.com/citations?hl=en&user=vfoKg4wAAAAJ)
 
