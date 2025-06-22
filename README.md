@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khorshed Alam</h1>
-<h2 align="center">Research Assistant, Independent University Bangladesh.</h2>
-<h3 align="center">Peer Reviewer, IEEE Access Journal (Q1, Computer Science).</h2>
+
 Khorshed Alam is currently serving as a Research Assistant at Independent University, Bangladesh (IUB), and Southeast University (SEU). He holds a Master of Science in Computer Science and Engineering (CSE) from United International University (UIU). With two years of professional experience as a Software Engineer specializing in android app development. Khorshed has demonstrated academic excellence, earning several prestigious accolades, including the Emerging Leader Award 2024, the Dean's List Award, multiple research grants, and Merit Scholarships. He has published high-ranked research articles in the domains of AI, Biomedical Engineering, Signal Processing, and Cyber Security, collaborating with esteemed professors and PhD scholars from institutions such as the University of Houston, Virginia Tech, University of Southern Denmark, Laval University, UIU, IUB, and SEU. He serves as a journal article reviewer for IEEE Access (Q1, Computer Science). He also reviewed manuscripts from IEEE Vehicular Technology Conference (VTC), ISBCom25, IEEE TEMSCON ASPAC 2025, ICMI2025 and so on.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkhurshed&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkhurshed" /> </p>
