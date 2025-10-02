@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khorshed Alam</h1>
 
-![giphy](https://github.com/user-attachments/assets/536f3874-107d-4024-86c9-09665524ea71)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/536f3874-107d-4024-86c9-09665524ea71" alt="giphy" />
+</p>
 
 
 Khorshed Alam is currently serving as a Research Assistant at Independent University, Bangladesh (IUB), and Southeast University (SEU). He holds a Master of Science in Computer Science and Engineering (CSE) from United International University (UIU). With two years of professional experience as a Software Engineer specializing in android app development. Khorshed has demonstrated academic excellence, earning several prestigious accolades, including the Emerging Leader Award 2024, the Dean's List Award, multiple research grants, and Merit Scholarships. He has published high-ranked research articles in the domains of AI, Biomedical Engineering, Signal Processing, and Cyber Security, collaborating with esteemed professors and PhD scholars from institutions such as the University of Houston, Virginia Tech, University of Southern Denmark, Laval University, UIU, IUB, and SEU. He serves as a journal article reviewer for Scientific Reports (Q1), The Journal of Supercomputing (Q2), Discover Computing (Q2), IEEE Access (Q1) and 
