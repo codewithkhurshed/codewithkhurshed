@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khorshed Alam</h1>
 
 <p align="center">
-  ![scZPhLqaVOM1qG4lT9](https://github.com/user-attachments/assets/63d84687-7058-48b0-93dc-5a455a319e98)
-
+  <img src="https://github.com/user-attachments/assets/63d84687-7058-48b0-93dc-5a455a319e98" alt="codewithkhurshed" /> 
 </p>
 
 
