@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khorshed Alam</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/536f3874-107d-4024-86c9-09665524ea71" alt="giphy" />
+  ![scZPhLqaVOM1qG4lT9](https://github.com/user-attachments/assets/63d84687-7058-48b0-93dc-5a455a319e98)
+
 </p>
 
 
