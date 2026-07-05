@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khorshed Alam</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63d84687-7058-48b0-93dc-5a455a319e98" alt="codewithkhurshed" /> 
+  <img src="https://github.com/user-attachments/assets/a3805424-ed03-4159-b505-ecbcdf4a655f" alt="codewithkhurshed" /> 
 </p>
 
 
@@ -26,5 +26,3 @@ International Journal of Computational Intelligence Systems. He also reviewed ma
 
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithkhurshed&show_icons=true&locale=en&layout=compact" alt="codewithkhurshed" /></p>
